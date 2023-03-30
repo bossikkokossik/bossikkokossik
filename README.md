@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🥅 I will finish my Joint Degree in Data Science BSc. in 2023 at [London South Bank University
+](https://www.lsbu.ac.uk/) & [IU International University of Applied Sciences](https://www.iu.org/bachelor/data-science/)
+- ⚡️ Here's a fun fact about me: I was born and raised in Poland 🇵🇱, have since lived in the United Kingdom 🇬🇧, and currently call Italy 🇮🇹 my home.
+
+Thanks to a scholarship for talented students, I am able to complete my Joint Degree in Data Science BSc. at university in just 9 months, instead of the usual 36 months. I am on track to finish in 2023.
+
 <!--
 **bossikkokossik/bossikkokossik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
