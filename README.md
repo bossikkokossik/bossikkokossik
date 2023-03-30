@@ -20,6 +20,17 @@ Thanks to a scholarship for talented students, I am able to complete my Degree i
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 🎒 Project Portfolio:
+### [Project 1: Airbnb Datamart in SQL](https://github.com/bossikkokossik/airbnb_sql_datamart)
+  - `MySQL`
+### [Project 2: Habit Tracker in Python](https://github.com/bossikkokossik/habit_tracker)
+  - `Python`
+
+
+
+## 🔗 Connect with me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipboss/)
 <!--
 **bossikkokossik/bossikkokossik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
