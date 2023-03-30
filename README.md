@@ -1,7 +1,9 @@
 ### Hi there 👋
+I'm an AI enthusiast who is deeply passionate about its potential applications in medicine and healthcare, particularly in the field of data analysis to improve patient outcomes and drive innovation.
 
 - 🥅 I will finish my Joint Degree in Data Science BSc. in 2023 at [London South Bank University
 ](https://www.lsbu.ac.uk/) & [IU International University of Applied Sciences](https://www.iu.org/bachelor/data-science/)
+- 🤓 In my free time I create projects to further sharpen my skills as analyst using Python, SQL, Excel, and Tableau
 - ⚡️ Here's a fun fact about me: I was born and raised in Poland 🇵🇱, have since lived in the United Kingdom 🇬🇧, and currently call Italy 🇮🇹 my home.
 
 Thanks to a scholarship for talented students, I am able to complete my Degree in Data Science in just 9 months, instead of the usual 36 months.
